@@ -1,0 +1,13 @@
+{% extends "account/base.html" %}
+
+{% load custom_filters %}
+
+{% block content %}
+    {% if profile %}
+            <h1>{{ profile.authorUser }}  
+            <h2> Age: {{ profile.age }}
+            <h3>Rating: {{ profile.authorRating }}
+    {% else %}
+        <h2>User not found</h2>
+    {% endif %}
+{% endblock content %}

@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>New article!</title>
+</head>
+<body>
+    <h2>Greetings, {{ user }}.
+    <h2>New article in: {{ category_name }}
+    <p>
+    <h2><a href="{{ url }}{{ instance.id }}">{{ instance.title }}</a>
+    <p>
+    <h4>{{ instance.text|truncatechars:50 }}
+</body>
+</html>  

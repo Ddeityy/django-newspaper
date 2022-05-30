@@ -1,0 +1,48 @@
+{% extends "account/base.html" %}
+
+{% load custom_filters %}
+
+{% load custom_tags %}
+
+{% block title %}
+Articles
+{% endblock title %}
+
+{% block content %}
+    <form action="" method="get">
+        {{ filter.form }}
+        <input type="submit" value="Найти">
+    </form>
+
+    {% for n in filter.qs %}
+        <h1>{{ n.title|censor }}
+        <p>
+        <h2>{{ n.creation_timedate }}
+        <p>
+        <h3>{{ n.text|truncatechars:20|censor }}
+        <hr>
+    {% endfor %}
+
+    {% if is_paginated %}
+
+        {% if page_obj.has_previous %}
+            <a href="?{{ request.get_full_path|update_page:1}}">First</a>
+            <a href="?{{ request.get_full_path|update_page:page_obj.previous_page_number}}">⤎</a>
+        {% endif %}
+
+        {% for num in page_obj.paginator.page_range %}
+            {% if page_obj.number == num %}
+                <a>{{ num }}</a>
+            {% elif num > page_obj.number|add:'-3' and num < page_obj.number|add:'3' %}
+                <a href="?{{ request.get_full_path|update_page:num }}">{{ num }}</a>
+            {% endif %}
+        {% endfor %}
+
+        {% if page_obj.has_next %}
+            <a href="?{{ request.get_full_path|update_page:page_obj.next_page_number }}">⤏</a>
+            <a href="?{{ request.get_full_path|update_page:page_obj.paginator.num_pages }}">Last</a>
+        {% endif %}
+
+    {% endif %}
+
+{% endblock content %}
