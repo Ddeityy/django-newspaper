@@ -1,11 +1,6 @@
 {% extends "account/base.html" %}
 
 {% block content %}
-{% if request.build_absolute_uri == 'http://127.0.0.1:8000/news/create/' %}
-    <h1>Новость</h1>
-{% elif request.build_absolute_uri == 'http://127.0.0.1:8000/articles/create/' %}
-    <h1>Статья</h1>
-{% endif %}
 <hr>
 <form action="" method="post">
     {% csrf_token %}
