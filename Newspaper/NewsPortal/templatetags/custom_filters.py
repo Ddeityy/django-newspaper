@@ -21,10 +21,6 @@ def censor(value):
          return f'{value}'
    return f'{value}'
 
-@register.filter()
-def power(value, power):
-   return value ** power
-
 @register.filter(name='update_page')
 def update_page(full_path:str, page:int):
     try:

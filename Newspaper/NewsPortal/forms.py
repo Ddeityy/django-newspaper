@@ -1,19 +1,19 @@
 from django.forms import *
 from django.core.exceptions import ValidationError
-from .models import Author, Category, Post
+from .models import *
 from allauth.account.forms import SignupForm
 from django.contrib.auth.models import Group
 from django.contrib.auth.forms import UserCreationForm
 
 
 class UserForm(ModelForm):
-    author_user = CharField(
+    authorUser = CharField(
         label='Name'
     )
     class Meta:
         model = Author
         fields = [
-            'author_user',
+            'authorUser',
             'age'
         ]
 
@@ -28,7 +28,7 @@ class BasicSignupForm(SignupForm):
 
 class PostForm(ModelForm):
     text = CharField()
-    post_category = ModelMultipleChoiceField(
+    postCategory = ModelMultipleChoiceField(
         queryset=Category.objects.all(),
         label='Categories',
         )
@@ -39,7 +39,7 @@ class PostForm(ModelForm):
             'title',
             'text',
             'author',
-            'post_category'
+            'postCategory'
         ]
 
     def clean(self):

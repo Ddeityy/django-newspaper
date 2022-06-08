@@ -11,7 +11,7 @@
         <h3>{{ article.text|censor }}
         <hr>
         Categories: 
-        {% for a in article.post_category.all %}
+        {% for a in article.postCategory.all %}
             <a class="nav-link" href="/categories/">{{ a.name }}</a>
         {% endfor %}
     {% else %}

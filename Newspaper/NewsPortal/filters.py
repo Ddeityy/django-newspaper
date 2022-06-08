@@ -1,13 +1,13 @@
-from django_filters import ModelMultipleChoiceFilter, DateFilter, FilterSet
-from .models import Category, Post
-from django.forms import DateInput
+from django_filters import *
+from .models import *
+from django.forms import *
 
 class DateInput(DateInput):
     input_type = 'date'
 
 class PostFilter(FilterSet):
-    post_category = ModelMultipleChoiceFilter(
-        field_name='post_category',
+    postCategory = ModelMultipleChoiceFilter(
+        field_name='postCategory',
         queryset=Category.objects.all(),
         label='Categories',
         conjoined=True
@@ -26,5 +26,5 @@ class PostFilter(FilterSet):
         model = Post
         fields = {
             'title': ['icontains'],
-            'author__author_user': ['exact'],
+            'author__authorUser': ['exact'],
         }
