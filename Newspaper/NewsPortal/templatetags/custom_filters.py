@@ -16,7 +16,7 @@ def currency(value, code='rub'):
 def censor(value):
    for i in curselist:
       if i.find(value):
-         value = value.replace(i[1::], "*" * len(i))
+         value = value.replace(i[1:-1], "*" * (len(i)-2))
       else:
          return f'{value}'
    return f'{value}'
