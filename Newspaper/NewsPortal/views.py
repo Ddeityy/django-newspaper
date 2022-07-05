@@ -9,6 +9,9 @@ from django.shortcuts import redirect
 from django.contrib.auth.models import Group
 from django.contrib.auth.decorators import login_required
 from django.core.cache import cache
+import logging
+
+logger = logging.getLogger(__name__)
 
 
 @login_required
@@ -34,6 +37,7 @@ class NewsList(ListView):
     template_name = 'news.html'
     context_object_name = 'news'
     paginate_by = 10
+    logger.info('INFO')
     
     def get_queryset(self):
         # Получаем обычный запрос
@@ -98,6 +102,7 @@ class Categories(ListView):
     
 
 class PostDetail(DetailView):
+    
     model = Post
     template_name = 'article.html'
     context_object_name = 'article'

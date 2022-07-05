@@ -15,7 +15,7 @@ def currency(value, code='rub'):
 @register.filter()
 def censor(value):
    for i in curselist:
-      if i.find(value):
+      if i.find(value+" "):
          value = value.replace(i[1:-1], "*" * (len(i)-2))
       else:
          return f'{value}'
@@ -85,5 +85,6 @@ curselist =[
    'хуйня',
    'хуй',
    'хуйнуть',
-   'хуй пинать'
+   'хуй пинать',
+   'пизда'
 ]

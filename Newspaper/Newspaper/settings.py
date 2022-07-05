@@ -10,8 +10,10 @@ For the full list of settings and their values, see
 https://docs.djangoproject.com/en/4.0/ref/settings/
 """
 
+from logging import handlers
 from pathlib import Path
 import os
+from re import M
 from dotenv import load_dotenv
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
@@ -23,9 +25,6 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 
 # SECURITY WARNING: keep the secret key used in production secret!
 SECRET_KEY = 'django-insecure-7+al9zb29+hnze_p6^gqzw3b2%7ytx&=0jo7q-ok2$10=em7ti'
-
-# SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
 
 ALLOWED_HOSTS = []
 
@@ -65,7 +64,6 @@ INSTALLED_APPS = [
     'django.contrib.sites',
     'NewsPortal.apps.NewsportalConfig',
     'django_filters',
-    'django_apscheduler',
     'allauth',
     'allauth.account',
     'allauth.socialaccount',
@@ -176,3 +174,105 @@ EMAIL_HOST='smtp.yandex.ru'
 EMAIL_PORT=465
 EMAIL_USE_SSL=True
 DEFAULT_FROM_EMAIL = EMAIL_HOST_USER + '@yandex.com'
+
+# SECURITY WARNING: don't run with debug turned on in production!
+DEBUG = True
+
+LOGGING = {
+    'version': 1,
+    'disable_existing_logger': False,
+    'loggers': {
+        'django': {
+            'handlers':['console', 'general'],
+            'level': 'DEBUG'
+        },
+        'django.request': {
+            'level': 'ERROR',
+            'handlers': ['error']
+        },
+        'django.server': {
+            'level': 'ERROR',
+            'handlers': ['error']
+        },
+        'django.template': {
+            'level': 'ERROR',
+            'handlers': ['error']
+        },
+        'django.db_backends': {
+            'level': 'ERROR',
+            'handlers': ['error']
+        },
+        'django.security': {
+            'handlers': ['security']
+        }
+    },
+    'handlers': {
+        'mail_errors': {
+          'level': 'ERROR',
+          'filters': ['require_debug_false'],
+          'class': 'django.utils.log.AdminEmailHandler',
+          'formatter': 'mail_errors',
+        },
+        'console': {
+            'class': 'logging.StreamHandler',
+            'filters': ['require_debug_true'],
+            'level': 'DEBUG',
+            'formatter': 'DEBUG',
+        },
+        'general': {
+            'level': 'INFO',
+            'filters': ['require_debug_false'],
+            'class': 'logging.FileHandler',
+            'filename': 'general.log',
+            'formatter': 'INFO',
+            
+        },
+        'error': {
+            'level': 'ERROR',
+            'class': 'logging.FileHandler',
+            'filename': 'error.log',
+            'formatter': 'ERROR'
+        },
+        'security': {
+            'level': 'INFO',
+            'class': 'logging.FileHandler',
+            'filename': 'security.log',
+            'formatter': 'INFO'
+        },
+    },
+    'formatters': {
+        'DEBUG': {
+            'format': '{asctime} {levelname}: {message}',
+            'datetime': '%Y.%m.%d %%H:%M:%S',
+            'style': "{"
+        },
+        'INFO': {
+            'format': '{asctime} {levelname}: {module} {message}',
+            'datetime': '%Y.%m.%d %%H:%M:%S',
+            'style': "{"
+        },
+        'WARNING': {
+            'format': '{asctime} {levelname}: {message}, {pathname}',
+            'datetime': '%Y.%m.%d %%H:%M:%S',
+            'style': "{"
+        },
+        'ERROR': {
+            'format': '{asctime} {levelname}: {message}, {pathname}, {exc_info}',
+            'datetime': '%Y.%m.%d %%H:%M:%S',
+            'style': "{"
+        },
+        'mail_errors': {
+            'format': '{asctime} {levelname}: {message}, {pathname}',
+            'datetime': '%Y.%m.%d %%H:%M:%S',
+            'style': "{"
+        }
+    },
+    'filters': {
+        'require_debug_false': {
+            '()': 'django.utils.log.RequireDebugFalse',
+        },
+        'require_debug_true': {
+            '()': 'django.utils.log.RequireDebugTrue',
+        },
+    }
+}
