@@ -224,8 +224,7 @@ LOGGING = {
             'filters': ['require_debug_false'],
             'class': 'logging.FileHandler',
             'filename': 'general.log',
-            'formatter': 'INFO',
-            
+            'formatter': 'INFO',  
         },
         'error': {
             'level': 'ERROR',
