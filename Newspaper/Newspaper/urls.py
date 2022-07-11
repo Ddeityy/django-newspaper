@@ -20,6 +20,7 @@ from django.contrib.auth.views import LoginView, LogoutView
 from django.views.decorators.cache import cache_page
 
 urlpatterns = [
+    path('i18n/', include('django.conf.urls.i18n')),
     path('', RedirectView.as_view(url='http://127.0.0.1:8000/news/')),
     path('admin/', admin.site.urls),
     path('news/', NewsList.as_view(), name='news_list'),

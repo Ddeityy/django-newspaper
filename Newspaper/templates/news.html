@@ -1,4 +1,6 @@
-{% extends "account/base.html" %}
+{% extends "base.html" %}
+
+{% load i18n %}
 
 {% load custom_filters %}
 
@@ -11,7 +13,7 @@ Articles
 {% block content %}
     <h3>{{ time_now|date:'M d Y' }}</h3>
     <p>
-    <h1>{{ news|length }} articles </h1>
+    <h1>{{ news|length }} {% translate "articles" %} </h1>
     <hr>
     {% if news %}
         {% for n in news %}
@@ -23,7 +25,7 @@ Articles
             <hr>
         {% endfor %}
     {% else %}
-        <h2>Новостей нет!</h2>
+        <h2>{% translate "No articles" %}</h2>
     {% endif %}
 
     {% if is_paginated %}

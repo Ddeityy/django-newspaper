@@ -1,0 +1,580 @@
+2022-07-08 23:30:33,028 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:30:33,034 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:31:12,952 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:31:12,958 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:28,411 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:28,418 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:29,190 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:29,197 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:29,376 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:29,555 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:30,289 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:30,967 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:31,631 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:32,102 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:32,647 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:32,652 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:33,167 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:33,709 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:34,128 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:34,134 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:34,559 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:34,565 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:34,782 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:34,923 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:35,097 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:35,106 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:35,464 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:35,470 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:35,698 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:35,704 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:35,828 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:35,834 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:36,019 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:36,196 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:36,204 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:36,383 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:36,389 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:36,613 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:36,898 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:37,063 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:37,250 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:37,477 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:37,600 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:37,827 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:38,000 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:38,145 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:38,765 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:38,846 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:38,887 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:38,967 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:39,002 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:39,008 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:39,049 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:39,087 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:39,131 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:39,137 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:39,164 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:39,213 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:39,295 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:39,316 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:39,360 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:39,377 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:39,408 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:39,514 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:39,533 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:39,540 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:39,566 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:39,653 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:39,666 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:39,694 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:39,819 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:39,857 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:39,885 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:39,923 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:39,958 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:39,985 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:40,012 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:40,056 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:40,124 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:40,142 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:40,150 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:40,212 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:40,219 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:40,259 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:40,287 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:40,305 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:40,311 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:40,327 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:40,422 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:40,454 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:40,529 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:40,552 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:40,567 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:40,596 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:40,700 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:40,730 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:40,752 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:40,775 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:40,805 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:40,812 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:40,901 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:40,946 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:40,979 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:41,070 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:41,098 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:41,189 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:41,214 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:41,301 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:34:41,340 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:35:25,824 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:35:25,830 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:35:26,596 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:35:27,105 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:35:27,574 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:35:27,968 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:35:32,815 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:35:33,459 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:35:33,588 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:35:33,596 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:35:33,741 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:36:43,498 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:36:44,009 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:36:44,160 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:36:44,312 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:36:44,460 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:37:56,119 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:37:56,783 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:37:57,179 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:37:57,185 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:37:57,340 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:37:57,347 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:37:57,689 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:37:57,737 ERROR: You're accessing the development server over HTTPS, but it only supports HTTP.
+, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:58:40,380 ERROR: Internal Server Error: /news/, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/utils/log.py, (<class 'AttributeError'>, AttributeError("'dict' object has no attribute 'replace'"), <traceback object at 0x7f2779625c00>)
+Traceback (most recent call last):
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/views/generic/base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/views/generic/base.py", line 119, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/views/generic/list.py", line 174, in get
+    context = self.get_context_data()
+  File "/home/deity/Dev/django-newspaper-1/Newspaper/NewsPortal/views.py", line 58, in get_context_data
+    trans = _(context)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/utils/translation/__init__.py", line 95, in gettext
+    return _trans.gettext(message)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/utils/translation/trans_real.py", line 371, in gettext
+    eol_message = message.replace("\r\n", "\n").replace("\r", "\n")
+AttributeError: 'dict' object has no attribute 'replace'
+2022-07-08 23:58:40,383 ERROR: "GET /news/ HTTP/1.1" 500 94000, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-08 23:58:41,715 ERROR: Internal Server Error: /news/, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/utils/log.py, (<class 'AttributeError'>, AttributeError("'dict' object has no attribute 'replace'"), <traceback object at 0x7f2779f5ff40>)
+Traceback (most recent call last):
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/views/generic/base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/views/generic/base.py", line 119, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/views/generic/list.py", line 174, in get
+    context = self.get_context_data()
+  File "/home/deity/Dev/django-newspaper-1/Newspaper/NewsPortal/views.py", line 58, in get_context_data
+    trans = _(context)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/utils/translation/__init__.py", line 95, in gettext
+    return _trans.gettext(message)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/utils/translation/trans_real.py", line 371, in gettext
+    eol_message = message.replace("\r\n", "\n").replace("\r", "\n")
+AttributeError: 'dict' object has no attribute 'replace'
+2022-07-08 23:58:41,716 ERROR: "GET /news/ HTTP/1.1" 500 94000, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-09 00:06:27,364 ERROR: Internal Server Error: /news/, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/utils/log.py, (<class 'AttributeError'>, AttributeError("'dict' object has no attribute 'replace'"), <traceback object at 0x7f70bf9ab140>)
+Traceback (most recent call last):
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/views/generic/base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/views/generic/base.py", line 119, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/views/generic/list.py", line 174, in get
+    context = self.get_context_data()
+  File "/home/deity/Dev/django-newspaper-1/Newspaper/NewsPortal/views.py", line 58, in get_context_data
+    return _(context)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/utils/translation/__init__.py", line 95, in gettext
+    return _trans.gettext(message)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/utils/translation/trans_real.py", line 371, in gettext
+    eol_message = message.replace("\r\n", "\n").replace("\r", "\n")
+AttributeError: 'dict' object has no attribute 'replace'
+2022-07-09 00:06:27,366 ERROR: "GET /news/ HTTP/1.1" 500 93978, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-09 00:06:44,658 ERROR: Internal Server Error: /news/, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/utils/log.py, (<class 'AttributeError'>, AttributeError("'dict' object has no attribute 'replace'"), <traceback object at 0x7f70bef95a40>)
+Traceback (most recent call last):
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/views/generic/base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/views/generic/base.py", line 119, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/views/generic/list.py", line 174, in get
+    context = self.get_context_data()
+  File "/home/deity/Dev/django-newspaper-1/Newspaper/NewsPortal/views.py", line 58, in get_context_data
+    return _(context)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/utils/translation/__init__.py", line 95, in gettext
+    return _trans.gettext(message)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/utils/translation/trans_real.py", line 371, in gettext
+    eol_message = message.replace("\r\n", "\n").replace("\r", "\n")
+AttributeError: 'dict' object has no attribute 'replace'
+2022-07-09 00:06:44,660 ERROR: "GET /news/ HTTP/1.1" 500 93978, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-09 00:06:45,418 ERROR: Internal Server Error: /news/, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/utils/log.py, (<class 'AttributeError'>, AttributeError("'dict' object has no attribute 'replace'"), <traceback object at 0x7f70bee94940>)
+Traceback (most recent call last):
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/views/generic/base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/views/generic/base.py", line 119, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/views/generic/list.py", line 174, in get
+    context = self.get_context_data()
+  File "/home/deity/Dev/django-newspaper-1/Newspaper/NewsPortal/views.py", line 58, in get_context_data
+    return _(context)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/utils/translation/__init__.py", line 95, in gettext
+    return _trans.gettext(message)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/utils/translation/trans_real.py", line 371, in gettext
+    eol_message = message.replace("\r\n", "\n").replace("\r", "\n")
+AttributeError: 'dict' object has no attribute 'replace'
+2022-07-09 00:06:45,419 ERROR: "GET /news/ HTTP/1.1" 500 93978, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-09 00:06:45,607 ERROR: Internal Server Error: /news/, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/utils/log.py, (<class 'AttributeError'>, AttributeError("'dict' object has no attribute 'replace'"), <traceback object at 0x7f70bef9df80>)
+Traceback (most recent call last):
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/views/generic/base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/views/generic/base.py", line 119, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/views/generic/list.py", line 174, in get
+    context = self.get_context_data()
+  File "/home/deity/Dev/django-newspaper-1/Newspaper/NewsPortal/views.py", line 58, in get_context_data
+    return _(context)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/utils/translation/__init__.py", line 95, in gettext
+    return _trans.gettext(message)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/utils/translation/trans_real.py", line 371, in gettext
+    eol_message = message.replace("\r\n", "\n").replace("\r", "\n")
+AttributeError: 'dict' object has no attribute 'replace'
+2022-07-09 00:06:45,609 ERROR: "GET /news/ HTTP/1.1" 500 93978, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-09 00:06:45,826 ERROR: Internal Server Error: /news/, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/utils/log.py, (<class 'AttributeError'>, AttributeError("'dict' object has no attribute 'replace'"), <traceback object at 0x7f70bee9f940>)
+Traceback (most recent call last):
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/views/generic/base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/views/generic/base.py", line 119, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/views/generic/list.py", line 174, in get
+    context = self.get_context_data()
+  File "/home/deity/Dev/django-newspaper-1/Newspaper/NewsPortal/views.py", line 58, in get_context_data
+    return _(context)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/utils/translation/__init__.py", line 95, in gettext
+    return _trans.gettext(message)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/utils/translation/trans_real.py", line 371, in gettext
+    eol_message = message.replace("\r\n", "\n").replace("\r", "\n")
+AttributeError: 'dict' object has no attribute 'replace'
+2022-07-09 00:06:45,916 ERROR: Internal Server Error: /news/, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/utils/log.py, (<class 'AttributeError'>, AttributeError("'dict' object has no attribute 'replace'"), <traceback object at 0x7f70beea6200>)
+Traceback (most recent call last):
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/views/generic/base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/views/generic/base.py", line 119, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/views/generic/list.py", line 174, in get
+    context = self.get_context_data()
+  File "/home/deity/Dev/django-newspaper-1/Newspaper/NewsPortal/views.py", line 58, in get_context_data
+    return _(context)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/utils/translation/__init__.py", line 95, in gettext
+    return _trans.gettext(message)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/utils/translation/trans_real.py", line 371, in gettext
+    eol_message = message.replace("\r\n", "\n").replace("\r", "\n")
+AttributeError: 'dict' object has no attribute 'replace'
+2022-07-09 00:06:45,918 ERROR: "GET /news/ HTTP/1.1" 500 93978, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-09 00:07:54,785 ERROR: Internal Server Error: /news/44, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/utils/log.py, (<class 'AttributeError'>, AttributeError("'Post' object has no attribute 'replace'"), <traceback object at 0x7fa664084240>)
+Traceback (most recent call last):
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/views/generic/base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/views/generic/base.py", line 119, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/views/generic/detail.py", line 108, in get
+    self.object = self.get_object()
+  File "/home/deity/Dev/django-newspaper-1/Newspaper/NewsPortal/views.py", line 120, in get_object
+    return HttpResponse(_(obj))
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/utils/translation/__init__.py", line 95, in gettext
+    return _trans.gettext(message)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/utils/translation/trans_real.py", line 371, in gettext
+    eol_message = message.replace("\r\n", "\n").replace("\r", "\n")
+AttributeError: 'Post' object has no attribute 'replace'
+2022-07-09 00:07:54,787 ERROR: "GET /news/44 HTTP/1.1" 500 90899, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-09 00:07:57,104 ERROR: Internal Server Error: /news/44, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/utils/log.py, (<class 'AttributeError'>, AttributeError("'Post' object has no attribute 'replace'"), <traceback object at 0x7fa664a8cac0>)
+Traceback (most recent call last):
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/views/generic/base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/views/generic/base.py", line 119, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/views/generic/detail.py", line 108, in get
+    self.object = self.get_object()
+  File "/home/deity/Dev/django-newspaper-1/Newspaper/NewsPortal/views.py", line 120, in get_object
+    return HttpResponse(_(obj))
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/utils/translation/__init__.py", line 95, in gettext
+    return _trans.gettext(message)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/utils/translation/trans_real.py", line 371, in gettext
+    eol_message = message.replace("\r\n", "\n").replace("\r", "\n")
+AttributeError: 'Post' object has no attribute 'replace'
+2022-07-09 00:07:57,105 ERROR: "GET /news/44 HTTP/1.1" 500 90899, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-11 17:28:20,310 ERROR: Internal Server Error: /news/, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/utils/log.py, (<class 'KeyError'>, KeyError(''), <traceback object at 0x7f3fa245ac00>)
+Traceback (most recent call last):
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/views/generic/base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/views/generic/base.py", line 119, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/views/generic/list.py", line 174, in get
+    context = self.get_context_data()
+  File "/home/deity/Dev/django-newspaper-1/Newspaper/NewsPortal/views.py", line 58, in get_context_data
+    context['']
+KeyError: ''
+2022-07-11 17:28:20,312 ERROR: "GET /news/ HTTP/1.1" 500 84088, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-11 17:28:24,922 ERROR: Internal Server Error: /news/, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/utils/log.py, (<class 'KeyError'>, KeyError(''), <traceback object at 0x7f3fa2629280>)
+Traceback (most recent call last):
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/views/generic/base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/views/generic/base.py", line 119, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/views/generic/list.py", line 174, in get
+    context = self.get_context_data()
+  File "/home/deity/Dev/django-newspaper-1/Newspaper/NewsPortal/views.py", line 58, in get_context_data
+    context['']
+KeyError: ''
+2022-07-11 17:28:24,923 ERROR: "GET /news/ HTTP/1.1" 500 84088, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-11 21:43:38,602 ERROR: Internal Server Error: /news/, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/utils/log.py, (<class 'django.template.exceptions.TemplateSyntaxError'>, TemplateSyntaxError("Invalid block tag on line 36: 'get_current_timezone', expected 'elif', 'else' or 'endif'. Did you forget to register or load this tag?"), <traceback object at 0x7f1a69ff33c0>)
+Traceback (most recent call last):
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/template/base.py", line 505, in parse
+    compile_func = self.tags[command]
+KeyError: 'get_current_timezone'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 220, in _get_response
+    response = response.render()
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/template/response.py", line 114, in render
+    self.content = self.rendered_content
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/template/response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/template/backends/django.py", line 62, in render
+    return self.template.render(context)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/template/base.py", line 175, in render
+    return self._render(context)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/template/base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/template/base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/template/base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/template/base.py", line 958, in render_annotated
+    return self.render(context)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/template/loader_tags.py", line 132, in render
+    compiled_parent = self.get_parent(context)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/template/loader_tags.py", line 129, in get_parent
+    return self.find_template(parent, context)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/template/loader_tags.py", line 107, in find_template
+    template, origin = context.template.engine.find_template(
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/template/engine.py", line 158, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/template/loaders/base.py", line 28, in get_template
+    return Template(
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/template/base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/template/base.py", line 200, in compile_nodelist
+    return parser.parse()
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/template/base.py", line 513, in parse
+    raise self.error(token, e)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/template/base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/template/defaulttags.py", line 954, in do_if
+    nodelist = parser.parse(("elif", "else", "endif"))
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/template/base.py", line 507, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/template/base.py", line 558, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 36: 'get_current_timezone', expected 'elif', 'else' or 'endif'. Did you forget to register or load this tag?
+2022-07-11 21:43:38,604 ERROR: "GET /news/ HTTP/1.1" 500 225622, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-11 21:50:00,028 ERROR: Internal Server Error: /news/, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/utils/log.py, (<class 'TypeError'>, TypeError("NewsList.get_context_data() missing 1 required positional argument: 'request'"), <traceback object at 0x7f795bf65640>)
+Traceback (most recent call last):
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/views/generic/base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/views/generic/base.py", line 119, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/views/generic/list.py", line 174, in get
+    context = self.get_context_data()
+TypeError: NewsList.get_context_data() missing 1 required positional argument: 'request'
+2022-07-11 21:50:00,030 ERROR: "GET /news/ HTTP/1.1" 500 79913, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None
+2022-07-11 21:50:01,291 ERROR: Internal Server Error: /news/, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/utils/log.py, (<class 'TypeError'>, TypeError("NewsList.get_context_data() missing 1 required positional argument: 'request'"), <traceback object at 0x7f795bed7300>)
+Traceback (most recent call last):
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/views/generic/base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/views/generic/base.py", line 119, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/views/generic/list.py", line 174, in get
+    context = self.get_context_data()
+TypeError: NewsList.get_context_data() missing 1 required positional argument: 'request'
+2022-07-11 21:50:01,291 ERROR: "GET /news/ HTTP/1.1" 500 79913, /home/deity/Dev/django-newspaper-1/.venv/lib/python3.10/site-packages/django/core/servers/basehttp.py, None

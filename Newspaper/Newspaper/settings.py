@@ -15,6 +15,12 @@ from pathlib import Path
 import os
 from re import M
 from dotenv import load_dotenv
+from django.utils.translation import gettext_lazy as _
+
+LANGUAGES = [
+    ('ru', _('Russian')),
+    ('en', _('English')),
+]
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -55,6 +61,7 @@ APSCHEDULER_RUN_NOW_TIMEOUT = 25
 # Application definition
 
 INSTALLED_APPS = [
+    'modeltranslation',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
@@ -73,11 +80,13 @@ INSTALLED_APPS = [
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
+    'django.middleware.locale.LocaleMiddleware',
     'django.middleware.common.CommonMiddleware',
     'django.middleware.csrf.CsrfViewMiddleware',
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
+    'django.middleware.middlewares.TimezoneMiddleware'
 ]
 
 AUTHENTICATION_BACKENDS = [
@@ -140,8 +149,6 @@ AUTH_PASSWORD_VALIDATORS = [
 
 # Internationalization
 # https://docs.djangoproject.com/en/4.0/topics/i18n/
-
-LANGUAGE_CODE = 'en-us'
 
 TIME_ZONE = 'UTC'
 
@@ -215,7 +222,7 @@ LOGGING = {
         },
         'console': {
             'class': 'logging.StreamHandler',
-            'filters': ['require_debug_true'],
+            'filters': ['require_debug_false'],
             'level': 'DEBUG',
             'formatter': 'DEBUG',
         },
@@ -275,3 +282,9 @@ LOGGING = {
         },
     }
 }
+
+LOCALE_PATHS = [
+    os.path.join(BASE_DIR, 'locale')
+]
+
+LANGUAGE = LANGUAGES[0][0]

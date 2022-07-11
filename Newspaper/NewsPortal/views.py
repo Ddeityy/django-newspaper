@@ -10,6 +10,11 @@ from django.contrib.auth.models import Group
 from django.contrib.auth.decorators import login_required
 from django.core.cache import cache
 import logging
+from django.utils.translation import gettext as _
+from django.http import HttpResponse
+from django.utils import timezone
+import pytz
+
 
 logger = logging.getLogger(__name__)
 
@@ -52,8 +57,14 @@ class NewsList(ListView):
     def get_context_data(self, **kwargs):
         context = super().get_context_data(**kwargs)
         context['time_now'] = datetime.utcnow()
+        context['current_time'] = timezone.localtime(timezone.now())
         context['filterset'] = self.filterset
+        context['timezones'] = pytz.common_timezones
         return context
+    
+    def post(self, request):
+        request.session['django_timezone'] = request.POST['timezone']
+        return redirect('/')
 
 
 class ProfileList(ListView):
